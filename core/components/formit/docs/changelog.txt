@@ -1,6 +1,6 @@
 Changelog for FormIt.
 
-FormIt 2.2.2
+FormIt 2.2.0
 ====================================
 - [#8382] Prevent issue with checkboxes/radios causing text-parsing problems with required validator
 - Fixed issue with custom error message for vTextPasswordConfirm not respected
